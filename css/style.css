@@ -1,0 +1,155 @@
+header{
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+li{list-style-type: none; display: inline; justify-content: space-between;
+margin-top: 50px;
+margin-right: 50px;
+font-style: italic;
+font-size: 50px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+a{text-decoration:none;font-size:20px;}
+ 
+main{
+  display: flex;
+}
+
+h1{
+
+display: flex;
+justify-content: flex-end;
+    position: relative;
+  margin-right: 160px;
+    bottom: 716px;
+    font-family: 'DM Sans', sans-serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Tilt Neon', cursive;
+}
+
+p.texto{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  font-size: 21px;
+   bottom: 716px;
+margin-left: 950px;
+font-family: 'DM Sans', sans-serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Tilt Neon', cursive;
+   }
+
+.imagenPrincipal img {
+  position: relative;
+  margin: 80px;
+box-sizing: border-box;
+}
+
+
+p{
+ text-align: center;
+
+}
+
+.contacto{
+  bottom:580px;
+  text-align: end;
+position: relative;
+}
+.presentacion{
+  flex-wrap: wrap;
+}
+.parrafo{
+text-align: end;
+}
+
+.rrss{ background-color: antiquewhite;
+border:black;
+  bottom: 500px;
+  position: relative;
+}
+
+
+.nosotros{justify-content: flex-start;
+  background-color: rgb(165, 119, 209);
+  text-align: center;
+position: relative;
+margin-right: 80px;
+margin-left: 100px;
+font-size: 25px;
+font-family: Arial, Helvetica, sans-serif;
+padding-left: 50px;
+font-size: 33px;
+color: white;
+
+}
+
+iframe{ margin-right: 50px;
+  padding-left: 30px;
+ bottom: 80px;
+}
+
+.lista{
+  
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-right: 50px;
+    margin-left: 50px;
+  padding-inline-start: 50px;
+  align-items: center;
+  }
+
+  article{ color: white;
+    padding: 50px;
+  background-color:lightcoral;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    
+    font-family: 'DM Sans', sans-serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Oxygen', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Tilt Neon', cursive;
+;
+
+  }
+
+  section{
+    
+    top: 129px;
+    display: flex;
+  
+    position: relative;
+
+    
+    justify-content: space-around;
+    align-items: center;
+
+  }
+
+  h2{
+    color: white;
+  
+  }
+
+
+form{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-between;
+flex-direction: column;
+
+}
